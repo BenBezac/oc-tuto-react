@@ -13,7 +13,7 @@
   },
   "scripts": {
     "deploy": "serve -s build",
-    "start": "node server.js",
+    "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
@@ -34,6 +34,7 @@
     ]
   },
   "engines": {
-    "node": "13.6.0"
+    "node": "13.6.0",
+    "npm": "6.13.4"
   }
 }
