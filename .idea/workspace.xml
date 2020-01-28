@@ -3,11 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="49ba5a7b-29ee-4b8c-9a06-239a0a219000" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +12,13 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/BenBezac/oc-tuto-react.git" />
+      </set>
+    </option>
   </component>
   <component name="ProjectId" id="1WwKEvqGeYFVPPNCxT6CpN4G9o9" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -61,14 +64,34 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1580055108572</updated>
-      <workItem from="1580055110652" duration="11790000" />
+      <workItem from="1580055110652" duration="12917000" />
     </task>
+    <task id="LOCAL-00001" summary="test">
+      <created>1580227599346</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1580227599347</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="511" y="155" key="CommitChangelistDialog2" timestamp="1580227597344">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="511" y="155" key="CommitChangelistDialog2/0.40.1920.1040@0.40.1920.1040" timestamp="1580227597344" />
+    <state x="552" y="294" key="Vcs.Push.Dialog.v2" timestamp="1580227602588">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="552" y="294" key="Vcs.Push.Dialog.v2/0.40.1920.1040@0.40.1920.1040" timestamp="1580227602588" />
     <state x="769" y="478" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1580059177065">
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
